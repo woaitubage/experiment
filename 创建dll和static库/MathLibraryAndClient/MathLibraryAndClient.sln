@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathLibrary", "MathLibrary\MathLibrary.vcxproj", "{84B0D3BB-A9BD-4EC5-9EA0-3328E350FAF5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathClient", "MathClient\MathClient.vcxproj", "{089235F2-EDFB-4DA9-988C-61AE7E294AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B0D3BB-A9BD-4EC5-9EA0-3328E350FAF5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84B0D3BB-A9BD-4EC5-9EA0-3328E350FAF5}.Debug|Win32.Build.0 = Debug|Win32
+		{84B0D3BB-A9BD-4EC5-9EA0-3328E350FAF5}.Release|Win32.ActiveCfg = Release|Win32
+		{84B0D3BB-A9BD-4EC5-9EA0-3328E350FAF5}.Release|Win32.Build.0 = Release|Win32
+		{089235F2-EDFB-4DA9-988C-61AE7E294AF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{089235F2-EDFB-4DA9-988C-61AE7E294AF9}.Debug|Win32.Build.0 = Debug|Win32
+		{089235F2-EDFB-4DA9-988C-61AE7E294AF9}.Release|Win32.ActiveCfg = Release|Win32
+		{089235F2-EDFB-4DA9-988C-61AE7E294AF9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

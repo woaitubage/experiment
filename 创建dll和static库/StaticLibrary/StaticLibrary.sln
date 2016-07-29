@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MuthFuncsLib", "MuthFuncsLib\MuthFuncsLib.vcxproj", "{4913156A-A018-4B71-94A5-BF372808CF34}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyExecRefsLib", "MyExecRefsLib\MyExecRefsLib.vcxproj", "{6AACD954-C5C0-44C2-B935-98642C5DABF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4913156A-A018-4B71-94A5-BF372808CF34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4913156A-A018-4B71-94A5-BF372808CF34}.Debug|Win32.Build.0 = Debug|Win32
+		{4913156A-A018-4B71-94A5-BF372808CF34}.Release|Win32.ActiveCfg = Release|Win32
+		{4913156A-A018-4B71-94A5-BF372808CF34}.Release|Win32.Build.0 = Release|Win32
+		{6AACD954-C5C0-44C2-B935-98642C5DABF5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AACD954-C5C0-44C2-B935-98642C5DABF5}.Debug|Win32.Build.0 = Debug|Win32
+		{6AACD954-C5C0-44C2-B935-98642C5DABF5}.Release|Win32.ActiveCfg = Release|Win32
+		{6AACD954-C5C0-44C2-B935-98642C5DABF5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
